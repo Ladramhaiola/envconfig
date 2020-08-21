@@ -1,3 +1,3 @@
-module github.com/kelseyhightower/envconfig
+module github.com/ladramhaiola/envconfig
 
-replace github.com/kelseyhightower/envconfig => github.com/ladramhaiola/envconfig master
+go 1.14
